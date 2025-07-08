@@ -4,7 +4,7 @@
 
 | Dependência                    | Versão             |
 |--------------------------------|--------------------|
-| Node.js                        | 16.x (recomendado) |
+| Node.js                        | 16.x (obrigatório) |
 | React                          | ^18.2.0            |
 | React DOM                      | ^18.2.0            |
 | React Scripts                  | 5.0.1              |
@@ -29,16 +29,22 @@
 ## Instalação
 
 1. **Clone o repositório:**
-git clone <URL-do-repositório>
 
+```
+git clone https://github.com/IssamiU/T2
+```
 
 2. **Instale as dependências:**
-npm install
 
+```
+npm install
+```
 
 ## Como Rodar o Projeto:
-npm start
 
+```
+npm start
+```
 
 ## Observações Importantes
 

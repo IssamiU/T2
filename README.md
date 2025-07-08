@@ -1,4 +1,4 @@
-# README – T2
+# T2
 
 ## Versões Importantes Utilizadas
 

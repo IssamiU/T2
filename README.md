@@ -1,8 +1,4 @@
-# README – Atividade 2
-
-## Descrição do Projeto
-
-Aplicação React desenvolvida com TypeScript, focada em práticas modernas de front-end, incluindo testes automatizados e estilização com Bootstrap.
+# README – T2
 
 ## Versões Importantes Utilizadas
 
